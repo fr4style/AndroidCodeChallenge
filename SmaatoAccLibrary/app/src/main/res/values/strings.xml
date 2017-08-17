@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smaato Acc Library</string>
+    <string name="error_ioe">There was a problem retrieving the info required!</string>
+    <string name="error_json">There was a problem parsing the response!</string>
+    <string name="error_load_image">Impossible to load Image!</string>
+    <string name="error_no_data">No data to show!</string>
+    <string name="error_generic">Generic error!</string>
+</resources>
